@@ -1,0 +1,8 @@
+# maven
+target/
+work/
+
+# eclipse
+.classpath
+.project
+.settings/
